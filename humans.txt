@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ben Oliver benoliver21@gmail.com Buckles21
 
 # THANKS
 
